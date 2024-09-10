@@ -7,5 +7,5 @@ resource "sentry_organization" "this" {
 }
 
 locals {
-  org_id = coalesce(var.id, sentry_organization.this[0].id)
+  org_id = try(sentry_organization.this[0].id, var.id)
 }
