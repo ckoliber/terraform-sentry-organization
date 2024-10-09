@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/cktf/terraform-sentry-organization/compare/1.0.1...1.0.2) (2024-10-09)
+
+
+### Bug Fixes
+
+* upgrade CI/CD ([5e8ef43](https://github.com/cktf/terraform-sentry-organization/commit/5e8ef430493e9c0ae4164d3c482d96281ba5b973))
+
 ## [1.0.1](https://github.com/cktf/terraform-sentry-organization/compare/1.0.0...1.0.1) (2024-09-10)
 
 
