@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/cktf/terraform-sentry-organization/compare/1.0.2...1.1.0) (2025-02-22)
+
+
+### Features
+
+* add new CI ([25054dc](https://github.com/cktf/terraform-sentry-organization/commit/25054dc953dd6ddf7679bba54a06cb0cdbaa2707))
+
 ## [1.0.2](https://github.com/cktf/terraform-sentry-organization/compare/1.0.1...1.0.2) (2024-10-09)
 
 
