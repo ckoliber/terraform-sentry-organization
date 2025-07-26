@@ -1,8 +1,8 @@
 # Terraform Sentry Organization
 
-![pipeline](https://github.com/cktf/terraform-sentry-organization/actions/workflows/cicd.yml/badge.svg)
-![release](https://img.shields.io/github/v/release/cktf/terraform-sentry-organization?display_name=tag)
-![license](https://img.shields.io/github/license/cktf/terraform-sentry-organization)
+![pipeline](https://github.com/ckoliber/terraform-sentry-organization/actions/workflows/cicd.yml/badge.svg)
+![release](https://img.shields.io/github/v/release/ckoliber/terraform-sentry-organization?display_name=tag)
+![license](https://img.shields.io/github/license/ckoliber/terraform-sentry-organization)
 
 **Organization** is a Terraform module useful for creating multiple teams and projects in **Sentry**
 
@@ -18,7 +18,7 @@ terraform init
 
 ```hcl
 module "sentry" {
-  source = "cktf/organization/sentry"
+  source = "ckoliber/organization/sentry"
 
   slug = "myorg"
   name = "MyOrg"
