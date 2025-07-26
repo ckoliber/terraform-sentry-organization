@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ckoliber/terraform-sentry-organization/compare/1.1.0...1.2.0) (2025-07-26)
+
+
+### Features
+
+* transfer project from cktf to ckoliber ([9552649](https://github.com/ckoliber/terraform-sentry-organization/commit/9552649ca5e81e4d55c7d2079f65d7bf266b4e8f))
+
 # [1.1.0](https://github.com/ckoliber/terraform-sentry-organization/compare/1.0.2...1.1.0) (2025-02-22)
 
 
